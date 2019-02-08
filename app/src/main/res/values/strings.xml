@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Next_Button">Next</string>
+    <string name="tv1">First Activity</string>
+    <string name="Back_Button">Back</string>
+    <string name="tv2">Second Activity</string>
+</resources>
